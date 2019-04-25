@@ -1,0 +1,30 @@
+﻿body {
+    background-color: white;
+    color: black;
+    margin-top: 50px;
+    margin-left: 0px;
+    font-size: 25px;
+}
+
+table {
+    width: 100%;
+    border-style: ridge;
+    border-color: dodgerblue;
+}
+
+#lu
+{
+    color: white;
+    border-style: solid;
+    border-color: dodgerblue;
+    background-color: dodgerblue;
+}
+
+#przycisk{
+    
+    margin-right: 1060px;
+    color: white;
+    border-style: solid;
+    border-color: dodgerblue;
+    background-color: dodgerblue;
+}
